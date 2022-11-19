@@ -1,2 +1,4 @@
-package com.peaksoft.api;public class TaskController {
+package com.peaksoft.api;
+
+public class TaskController {
 }

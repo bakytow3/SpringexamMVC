@@ -1,2 +1,4 @@
-package com.peaksoft.api;public class LessonController {
+package com.peaksoft.api;
+
+public class LessonController {
 }

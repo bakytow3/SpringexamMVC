@@ -1,2 +1,4 @@
-package com.peaksoft.api;public class CourseController {
+package com.peaksoft.api;
+
+public class CourseController {
 }
